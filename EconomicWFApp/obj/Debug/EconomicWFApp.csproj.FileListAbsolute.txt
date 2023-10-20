@@ -1,0 +1,16 @@
+D:\project\c#\asp\EcomerceApp_V3\EconomicWFApp\bin\Debug\EconomicWFApp.exe.config
+D:\project\c#\asp\EcomerceApp_V3\EconomicWFApp\bin\Debug\EconomicWFApp.exe
+D:\project\c#\asp\EcomerceApp_V3\EconomicWFApp\bin\Debug\EconomicWFApp.pdb
+D:\project\c#\asp\EcomerceApp_V3\EconomicWFApp\obj\Debug\EconomicWFApp.csproj.AssemblyReference.cache
+D:\project\c#\asp\EcomerceApp_V3\EconomicWFApp\obj\Debug\EconomicWFApp.csproj.SuggestedBindingRedirects.cache
+D:\project\c#\asp\EcomerceApp_V3\EconomicWFApp\obj\Debug\EconomicWFApp.Properties.Resources.resources
+D:\project\c#\asp\EcomerceApp_V3\EconomicWFApp\obj\Debug\EconomicWFApp.csproj.GenerateResource.cache
+D:\project\c#\asp\EcomerceApp_V3\EconomicWFApp\obj\Debug\EconomicWFApp.csproj.CoreCompileInputs.cache
+D:\project\c#\asp\EcomerceApp_V3\EconomicWFApp\obj\Debug\EconomicWFApp.exe
+D:\project\c#\asp\EcomerceApp_V3\EconomicWFApp\obj\Debug\EconomicWFApp.pdb
+D:\project\c#\asp\EcomerceApp_V3\EconomicWFApp\obj\Debug\EconomicWFApp.EconomicApp.resources
+D:\project\c#\asp\EcomerceApp_V3\EconomicWFApp\bin\Debug\Newtonsoft.Json.dll
+D:\project\c#\asp\EcomerceApp_V3\EconomicWFApp\bin\Debug\System.Net.Http.Formatting.dll
+D:\project\c#\asp\EcomerceApp_V3\EconomicWFApp\bin\Debug\Newtonsoft.Json.xml
+D:\project\c#\asp\EcomerceApp_V3\EconomicWFApp\bin\Debug\System.Net.Http.Formatting.xml
+D:\project\c#\asp\EcomerceApp_V3\EconomicWFApp\obj\Debug\EconomicWFApp.csproj.CopyComplete
